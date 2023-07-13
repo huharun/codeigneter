@@ -10,7 +10,7 @@ These are the codes of mvc model project done by me
  	6.CRUD functions.
   	7.tcpdf export (i.e report generation of data in pdf format)
    	8.phpexcel export (i.e data in excel format)
-    	9.Also bulk of excel upload data into database.
+	9.Also bulk of excel upload data into database.
 
 Tools and Language used
 
