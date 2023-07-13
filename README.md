@@ -1,6 +1,6 @@
 # codeigneter
 
-These are the codes mvc model project done by me
+These are the codes of mvc model project done by me
 
 	1.Landing page of listed form input
 	2.created with datatables and bootstrap cdn
